@@ -42,7 +42,7 @@ The Switch node uses **3 output routes** based on strict conditions:
 
 ### Part 2 — PDF Ingestion & Vector Storage
 
-![Architecture Part 2 — PDF Ingestion Pipeline](Project_Health-Assistant_Part-2.png)
+![Architecture Part 2 — PDF Ingestion Pipeline](Architecture Part 2 — PDF Ingestion Pipeline.png)
 
 | Step | Node | Description |
 |------|------|-------------|
@@ -68,7 +68,7 @@ The Switch node uses **3 output routes** based on strict conditions:
 
 ### Part 3 — AI Agent & RAG Query
 
-![Architecture Part 3 — AI Agent & RAG](Project_Health-Assistant_Part-3.png)
+![Architecture Part 3 — AI Agent & RAG](Architecture Part 3 — AI Agent & RAG.png)
 
 | Step | Node | Description |
 |------|------|-------------|
