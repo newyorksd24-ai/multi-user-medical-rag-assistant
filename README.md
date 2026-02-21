@@ -25,7 +25,7 @@ The workflow is split into **3 synchronized execution paths**, all triggered fro
 
 ### Part 1 — Entry Point & Message Routing
 
-![Architecture Part 1 — Entry & Routing](Project_Health-Assistant-Part-1-welcome.jpg)
+![Architecture Part 1 — Entry & Routing](Architecture Part 1.png)
 
 | Step | Node | Description |
 |------|------|-------------|
@@ -42,7 +42,7 @@ The Switch node uses **3 output routes** based on strict conditions:
 
 ### Part 2 — PDF Ingestion & Vector Storage
 
-![Architecture Part 2 — PDF Ingestion Pipeline](Project_Health-Assistant_Part-2.jpg)
+![Architecture Part 2 — PDF Ingestion Pipeline](Project_Health-Assistant_Part-2.png)
 
 | Step | Node | Description |
 |------|------|-------------|
@@ -68,7 +68,7 @@ The Switch node uses **3 output routes** based on strict conditions:
 
 ### Part 3 — AI Agent & RAG Query
 
-![Architecture Part 3 — AI Agent & RAG](Project_Health-Assistant_Part-3.jpg)
+![Architecture Part 3 — AI Agent & RAG](Project_Health-Assistant_Part-3.png)
 
 | Step | Node | Description |
 |------|------|-------------|
